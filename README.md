@@ -52,29 +52,37 @@ smart-bookmark-app/
 └── tailwind.config.js
 </pre>
 
-<h2>🧠 Engineering Challenges Solved</h2>
+<h2>🧠 Engineering Challenges & Learnings</h2>
 
 <ul>
   <li>
-    <strong>⚡ Real-time Sync Fix:</strong><br/>
-    Enabled Supabase Realtime replication and implemented filtered subscriptions to ensure user-specific updates.
+    <strong>⚡ Real-time Synchronization:</strong><br/>
+    Configured Supabase Realtime replication and implemented user-filtered subscriptions 
+    to ensure only the authenticated user's data updates across multiple tabs without duplication.
   </li>
   <br/>
   <li>
-    <strong>🔁 OAuth Redirect Loop (Production):</strong><br/>
-    Fixed incorrect localhost redirects by dynamically resolving <code>window.location.origin</code> and updating Supabase + Google settings.
+    <strong>🔁 OAuth Redirect Handling (Production Environment):</strong><br/>
+    Resolved redirect mismatch issues by dynamically setting 
+    <code>window.location.origin</code> and properly configuring Supabase 
+    and Google OAuth credentials for both local and production deployments.
   </li>
   <br/>
   <li>
-    <strong>📦 Deprecated Auth Package Migration:</strong><br/>
-    Migrated from <code>@supabase/auth-helpers-nextjs</code> to <code>@supabase/ssr</code> to resolve build failures.
+    <strong>🛡 Row-Level Security (RLS) Implementation:</strong><br/>
+    Designed and enforced strict database-level policies to guarantee 
+    complete user-level data isolation, preventing unauthorized access 
+    even if API requests are manipulated.
   </li>
   <br/>
   <li>
-    <strong>🛡 Row-Level Security Hardening:</strong><br/>
-    Implemented strict policies to guarantee complete user-level data isolation.
+    <strong>📦 Supabase Learning Curve:</strong><br/>
+    Supabase was new to me when starting this project. I studied the official documentation 
+    and watched technical tutorials to understand authentication flow, RLS policies, 
+    and realtime subscriptions. This helped me implement a secure and production-ready architecture.
   </li>
 </ul>
+
 
 <h2>🛠️ Getting Started</h2>
 
