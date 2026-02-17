@@ -111,7 +111,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key</code></pre>
 
 <ul>
   <li><strong>Name:</strong> Aakash Nishad</li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/aksxil" target="_blank">@deepak-05dktopG</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/aksxil" target="_blank">@aksxil</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aakash-nishad/" target="_blank">LinkedIn Profile</a></li>
 </ul>
 
