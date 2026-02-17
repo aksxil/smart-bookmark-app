@@ -123,9 +123,4 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key</code></pre>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aakash-nishad/" target="_blank">LinkedIn Profile</a></li>
 </ul>
 
-<hr/>
 
-<p align="center">
-  ⭐ If this project impressed you, consider giving it a star!<br/>
-  Feedback and contributions are always welcome.
-</p>
