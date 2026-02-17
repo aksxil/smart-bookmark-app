@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://smart-bookmark-app-sand.vercel.app" target="_blank">
+  <a href="https://smart-bookmark-app-theta-umber.vercel.app" target="_blank">
     <strong>🌐 Live Demo</strong>
   </a>
   &nbsp; | &nbsp;
-  <a href="https://github.com/deepak-05dktopG/Smart-BookMark-App" target="_blank">
+  <a href="https://github.com/aksxil/smart-bookmark-app" target="_blank">
     <strong>📦 GitHub Repository</strong>
   </a>
 </p>
@@ -81,7 +81,7 @@ smart-bookmark-app/
 <ol>
   <li>
     🧬 Clone the repository:
-    <pre><code>git clone https://github.com/deepak-05dktopG/Smart-BookMark-App.git</code></pre>
+    <pre><code>git clone https://github.com/aksxil/smart-bookmark-app</code></pre>
   </li>
   <li>
     📦 Install dependencies:
@@ -110,9 +110,9 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key</code></pre>
 <h2>👨‍💻 Developer</h2>
 
 <ul>
-  <li><strong>Name:</strong> Deepakkumar</li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/deepak-05dktopG" target="_blank">@deepak-05dktopG</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/deepak-05dktopg/" target="_blank">LinkedIn Profile</a></li>
+  <li><strong>Name:</strong> Aakash Nishad</li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/aksxil" target="_blank">@deepak-05dktopG</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/aakash-nishad/" target="_blank">LinkedIn Profile</a></li>
 </ul>
 
 <hr/>
